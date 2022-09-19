@@ -1,0 +1,22 @@
+
+            Class Program {
+                Var a_1: Class_type = New Class_type();
+                Var a_1: Class_type;
+                
+                Var $a_2: Class_type = New Class_type();
+                Var $a_2: Class_tye;
+                
+                Var a_3: Class_type = New Class_type();
+                Val a_3: Class_type;
+                
+                Var $a_3: Class_type = New Class_type();
+                Val $a_3: Class_type;
+                method() {
+                    Var x: Class_type;
+                    Var x: Class_type = New Class_type();
+                    
+                    Val y: Class_type;
+                    Var y: Class_type = New Class_type();
+                }
+            }
+        

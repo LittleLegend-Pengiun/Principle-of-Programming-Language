@@ -1,0 +1,13 @@
+
+            ()=>{
+                console.log("abc");
+                a[1];
+                Var a,b,c;
+                *this.a;
+                this->a;    
+                int* a = new int;
+                Class_name::a;
+                Var a:Int;
+            }
+            
+        

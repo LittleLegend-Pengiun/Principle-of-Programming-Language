@@ -1,0 +1,6 @@
+
+            Class Program {
+                Val $author: String = "Huynh Thanh Dat";
+                main() {}
+            }
+        

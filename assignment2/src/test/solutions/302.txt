@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Object),[]),ClassDecl(Id(Some_class),Id(Object),[]),ClassDecl(Id(Program),Id(Object),[])])

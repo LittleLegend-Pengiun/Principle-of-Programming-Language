@@ -1,0 +1,6 @@
+
+            Class Person {}
+            Class Student : Person {}
+            Class Teacher : Person {}
+            Class Program {}
+        

@@ -1,0 +1,4 @@
+
+            ## Unclose or Illegal or Valid ?? ##
+            "abcde'"
+        

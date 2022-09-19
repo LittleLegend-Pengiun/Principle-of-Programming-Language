@@ -1,0 +1,6 @@
+
+            Class Program {
+                Var a: Boolean = True;
+                Var b: Boolean = False;
+            }
+        

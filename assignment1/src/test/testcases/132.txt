@@ -1,0 +1,5 @@
+
+            "Valid string"
+            "'"Valid string'" Cristiano Ronaldo"
+            "Unclose string end with double quote and space'" 
+        
